@@ -17,7 +17,7 @@ Ce que j'ai déjà :
 
 
 
-# Métiers :
+#Métiers :
 
 - Taxi
 - Bus
@@ -27,3 +27,16 @@ Ce que j'ai déjà :
 - Dépanneur
 - Fourgon blindé (Amener de l'argent de la banque aux différents ATM)
 - Mineur
+
+#Banque :
+
+- Déposer argent
+- Retirer argent
+- Sauvegarder argent dans DB
+
+
+#Pole-emploi :
+
+- Prendre un job
+- Recevoir une paye toutes les 10min
+- Ne pas pouvoir prendre d'autre job sans démissionner
