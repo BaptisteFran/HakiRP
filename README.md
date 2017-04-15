@@ -13,4 +13,17 @@ Ce que j'ai déjà :
 4. Métiers (taxi, bus, poubelles, mineur)
 5. Menu général (plus de commandes) (ID, téléphone, actions)
 6. Fonctions de policiers, médecins (menottes, heal, voir idendité, drag)
-7. Activités ?
+7. Activités ? (drogue, braquage, stripclub...)
+
+
+
+# Métiers :
+
+- Taxi
+- Bus
+- Policier
+- Médecin
+- Pompier
+- Dépanneur
+- Fourgon blindé (Amener de l'argent de la banque aux différents ATM)
+- Mineur
