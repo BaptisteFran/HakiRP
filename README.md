@@ -1,10 +1,16 @@
 # HakiRP
 
+Ce que j'ai déjà :
+
+- Loginscreen
+
+
 #TODO List
 
 1. Sauvegarde des coordonnées et respawn au même endroit
 2. Loadouts suivant un certain niveau de permission (policiers, pompiers, médecins)
-3. Métiers (taxi, bus, poubelles, mineur)
-4. Menu général (plus de commandes) (ID, téléphone, actions)
-5. Fonctions de policiers, médecins (menottes, heal, voir idendité, drag)
-6. Activités ?
+3. Banque
+4. Métiers (taxi, bus, poubelles, mineur)
+5. Menu général (plus de commandes) (ID, téléphone, actions)
+6. Fonctions de policiers, médecins (menottes, heal, voir idendité, drag)
+7. Activités ?
