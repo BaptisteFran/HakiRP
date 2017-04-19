@@ -1,4 +1,4 @@
-# HakiRP
+# Serveur
 
 Ce que j'ai déjà :
 
@@ -40,3 +40,76 @@ Ce que j'ai déjà :
 - Prendre un job
 - Recevoir une paye toutes les 10min
 - Ne pas pouvoir prendre d'autre job sans démissionner
+
+
+
+    sessionsFound
+    Params: sessions
+
+sessionJoining
+Params: cur, max, hostName
+
+sessionJoined
+Params:
+
+sessionJoinFailed
+Params:
+
+sessionHostFailed
+Params: err
+
+sessionHosted
+Params:
+
+sessionInitialized
+Params:
+
+sessionStateChanged
+Params: state
+
+getResourceInitFuncs
+Params: isPreParse, add
+
+onClientResourceStart
+Params: res
+
+onClientResourceStop
+Params:
+
+onResourceStop
+Params: name
+
+playerActivated
+Params:
+
+playerDropped
+Params:
+
+onPlayerJoining
+Params: netId, name
+
+onPlayerKilled
+Params: playerId, attackerId, reason, position
+
+onPlayerDied
+Params: playerId, reason, position
+
+onClientMapStart
+Params:
+
+onClientMapStop
+Params:
+
+onMapStart
+Params:
+
+getMapDirectives
+Params: add
+
+onClientGameTypeStart
+Params:
+
+------------------------ RegisterServerEvent ---------------------------
+
+playerSpawned (in spawnmanager?)
+Params:
