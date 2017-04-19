@@ -42,9 +42,17 @@ Ce que j'ai déjà :
 - Ne pas pouvoir prendre d'autre job sans démissionner
 
 
-
-    sessionsFound
-    Params: sessions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+sessionsFound
+Params: sessions
 
 sessionJoining
 Params: cur, max, hostName
