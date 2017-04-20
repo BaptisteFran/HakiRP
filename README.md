@@ -3,13 +3,17 @@
 Ce que j'ai déjà :
 
 - Loginscreen
+- Banque
+- Taxi
+- Policier
+- Pole Emploi
 
 
 #TODO List
 
 1. Sauvegarde des coordonnées et respawn au même endroit
 2. Loadouts suivant un certain niveau de permission (policiers, pompiers, médecins)
-3. Banque
+3. Banque -- DONE
 4. Métiers (taxi, bus, poubelles, mineur)
 5. Menu général (plus de commandes) (ID, téléphone, actions)
 6. Fonctions de policiers, médecins (menottes, heal, voir idendité, drag)
@@ -19,7 +23,6 @@ Ce que j'ai déjà :
 
 #Métiers :
 
-- Taxi
 - Bus
 - Policier
 - Médecin
@@ -28,29 +31,23 @@ Ce que j'ai déjà :
 - Fourgon blindé (Amener de l'argent de la banque aux différents ATM)
 - Mineur
 
-#Banque :
+
+
+#Banque : ------- DONE
 
 - Déposer argent
 - Retirer argent
 - Sauvegarder argent dans DB
 
 
-#Pole-emploi :
+#Pole-emploi : ------- DONE
 
 - Prendre un job
 - Recevoir une paye toutes les 10min
 - Ne pas pouvoir prendre d'autre job sans démissionner
 
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
 sessionsFound
 Params: sessions
 
